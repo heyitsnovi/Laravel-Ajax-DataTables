@@ -8,9 +8,9 @@
 
   Tools Used
 
-  -Laravel 
-  -DataTables
-  -jQuery
+  <li>Laravel</li>
+  <li>DataTables</li>
+  <li>jQuery</li>
 
 
 ##Instruction
@@ -20,6 +20,9 @@
 3. Run the app using artisan php artisan serve
 
 
+##CodeIgniter Version
+
+If you are looking for CodeIgniter version just click here : https://github.com/heyitsnovi/CodeIgniter-Data-Tables
 
 ## License
 

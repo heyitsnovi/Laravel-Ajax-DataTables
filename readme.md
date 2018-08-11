@@ -13,14 +13,14 @@
   <li>jQuery</li>
 
 
-##Instruction
+## Instruction
 
 1. Clone the Repo
 2. Upload the airplane_model.sql file to your phpMyAdmin or any similar tool
 3. Run the app using artisan php artisan serve
 
 
-##CodeIgniter Version
+## CodeIgniter Version
 
 If you are looking for CodeIgniter version just click here : https://github.com/heyitsnovi/CodeIgniter-Data-Tables
 
